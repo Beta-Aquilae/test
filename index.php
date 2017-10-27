@@ -1,8 +1,4 @@
-<?php
-	require 'app/config.php';
-
-	$db = new Database();
-?>
+<?php require 'app/config.php' ?>
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
