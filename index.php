@@ -9,12 +9,10 @@
 	<body>
 		<div>
 			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>hello world</li>
+				<li>hello world</li>
+				<li>hello world</li>
+				<li>hello world</li>
 			</ul>
 		</div>
 	</body>
